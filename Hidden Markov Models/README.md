@@ -16,13 +16,13 @@ Let's say that we want to forecast the weather from the condition of algae. Obse
 
 Hidden Markow Models and Viterbi algorithm could give the answer.
 
-The initial probabilities are :
+The initial probabilities are (π) :
 
 | __Sun__ | __Cloud__ | __Rain__ |
 |-------------|------------|------------|
  0.6     | 0.25 | 0.25
 
-Transition probabilits are :
+Transition probabilits are (α) :
 
 | | __Sun__ | __Cloud__ | __Rain__ |
 |-------------|------------|------------|------------|
@@ -30,7 +30,7 @@ Transition probabilits are :
 | __Cloud__ | 0.375 | 0.125     | 0.25
 | __Rain__ |   0.125     | 0.675 | 0.375
 
-and emission probabilities are given by 
+and emission probabilities (b) are given by 
 
 | | __Dry__ | __Dryish__ | __Damp__ | __Soggy__ |
 |-------------|------------|------------|------------|------------|
