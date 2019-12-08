@@ -1,18 +1,18 @@
 # Hidden Markov Models
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-According to tradition, algae can be leveraged to weather prediction.  If we hang them outside in a rain-protected area, the algae tends to absorb moisture. We could therefore observe the the condition of the algae, which could be:
+According to tradition, algae can be leveraged to predict weather.  If we hang them outside in a rain-protected area, algae tends to absorb moisture. We could therefore observe four conditions of algae:
 - Soggy (0)
 - Damp (1)
 - Dryish (2)
 - Dry (3)
 
-and the real weather condidtions could be :
+and the real weather conditions could be :
 - Sunny Day (0)
 - Cloudy Day (1)
 - Rainy Day (2)
 
-Let's say that we want to forecast the weather from the condition of algae. Observing for four continous days the algae, it is turned out that are [Soggy(day 1), Damp (day 2), Drush (day 3) and Dry (today)]. Given that we have no information about the real weather conditions, which is the most probable sequence of weather until today?
+Let's say that we want to forecast the real weather from the condition of algae. Observing for four continous days the algae, it is turned out that are [Soggy(day 1), Damp (day 2), Drush (day 3) and Dry (today)]. Given that we have no information about the real weather conditions, which is the most probable sequence of weather until today?
 
 Hidden Markow Models and Viterbi algorithm could give the answer.
 
