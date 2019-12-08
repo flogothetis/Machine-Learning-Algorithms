@@ -14,7 +14,7 @@ and the real weather condidtions could be :
 
 Let's say that we want to forecast the weather from the condition of algae. Observing for four continous days the algae, it is turned out that are [Soggy(day 1), Damp (day 2), Drush (day 3) and Dry (today)]. Given that we have no information about the real weather conditions, which is the most probable sequence of weather until today?
 
-Hidden Markow Models and Viterbi algorithm could give the answer :
+Hidden Markow Models and Viterbi algorithm could give the answer.
 
 The initial probabilities are :
 
