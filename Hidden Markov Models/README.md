@@ -49,11 +49,16 @@ The Viterbi algorithm is a dynamic programming algorithm for finding the most li
 
 The algorithm has found universal application in decoding the convolutional codes used in both CDMA and GSM digital cellular, dial-up modems, satellite, deep-space communications, and 802.11 wireless LANs. It is now also commonly used in speech recognition, speech synthesis, diarization, keyword spotting, computational linguistics, and bioinformatics. For example, in speech-to-text (speech recognition), the acoustic signal is treated as the observed sequence of events, and a string of text is considered to be the "hidden cause" of the acoustic signal. The Viterbi algorithm finds the most likely string of text given the acoustic signal.
 
+More information [Wikipedia](https://en.wikipedia.org/wiki/Viterbi_algorithm).
+
+## Viterbi Execution
+
 Basic Steps of Algorithm : 
 ![image](https://user-images.githubusercontent.com/25617530/70395668-cf1c7d00-1a09-11ea-9982-bedc120ae7e0.png)
 
-## Viterbi Execute 
-![image](https://user-images.githubusercontent.com/25617530/70395735-61248580-1a0a-11ea-8f76-8b8880d83141.png)
 
-More information [Wikipedia](https://en.wikipedia.org/wiki/Viterbi_algorithm).
+![image](https://user-images.githubusercontent.com/25617530/70395735-61248580-1a0a-11ea-8f76-8b8880d83141.png)
+![image](https://user-images.githubusercontent.com/25617530/70395794-13f4e380-1a0b-11ea-8b78-9bdb04c975b0.png)
+
+
 
