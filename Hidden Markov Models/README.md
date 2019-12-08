@@ -40,7 +40,7 @@ and emission probabilities are given by
 
 Observable and hidden states are depicted in the following graph.
 
-
+![image](https://user-images.githubusercontent.com/25617530/70395600-e149eb80-1a08-11ea-8659-815189140dbc.png)
 
 
 
