@@ -52,5 +52,8 @@ The algorithm has found universal application in decoding the convolutional code
 Basic Steps of Algorithm : 
 ![image](https://user-images.githubusercontent.com/25617530/70395668-cf1c7d00-1a09-11ea-9982-bedc120ae7e0.png)
 
+## Viterbi Execute 
+![image](https://user-images.githubusercontent.com/25617530/70395735-61248580-1a0a-11ea-8f76-8b8880d83141.png)
+
 More information [Wikipedia](https://en.wikipedia.org/wiki/Viterbi_algorithm).
 
