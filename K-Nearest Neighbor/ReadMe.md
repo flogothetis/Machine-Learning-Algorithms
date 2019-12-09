@@ -6,6 +6,5 @@ about the underlying data. In other words, it makes its selection based off of t
 Being a lazy learning algorithm implies that there is little to no training phase. 
 Therefore, we can immediately classify new data points as they present themselves.
 
-KNN.py contains a class, where KNN is implemented from skratch. Futhermore, we give a parallel version of the algorithm for class wines into three categories according to 
-their features.
+KNN.py contains a class, where KNN is implemented from skratch. Futhermore, we give a parallel version of the algorithm in order to classify wines dataset into three categories according to their features.
 
