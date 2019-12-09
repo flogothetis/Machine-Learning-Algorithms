@@ -1,4 +1,4 @@
-# K Nearest Neighboors
+# K Nearest Neighboor
 
 K-Nearest Neighbors, or KNN for short, is one of the simplest machine learning algorithms and is used in a wide array of institutions.
 KNN is a non-parametric, lazy learning algorithm. When we say a technique is non-parametric, it means that it does not make any assumptions
