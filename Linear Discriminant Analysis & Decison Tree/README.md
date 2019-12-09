@@ -8,5 +8,6 @@ techniques reduce the number of dimensions (i.e. variables) in a dataset while r
 
 Result: 
 
-https://github.com/flogothetis/Machine-Learning-Algorithms/issues/3#issue-534999256
+![image](https://user-images.githubusercontent.com/25617530/70447707-dbefae00-1aa7-11ea-9416-bd788971cbc6.png)
+
 
